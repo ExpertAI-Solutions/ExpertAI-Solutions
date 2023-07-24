@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ExpertAI-Solutions 
-- Yours Expert!
+- Your Expert!
 
 ![Portfolio Banner](./real_Experts1!.png)
 
@@ -25,9 +25,9 @@ Here are some of my notable works:
 
 ## Testimonials
 
-> "Working with <strong>Yours Expert!</strong> was an absolute pleasure. Their web development skills are top-notch, and they delivered our project on time and within budget. Highly recommended!" - Client A
+> "Working with <strong>Your Expert!</strong> was an absolute pleasure. Their web development skills are top-notch, and they delivered our project on time and within budget. Highly recommended!" - Client A
 
-> "I was struggling with my assignment, and <strong>Yours Expert!</strong> provided excellent guidance that helped me understand the concepts better. I couldn't have completed it without their help. Thank you!" - Student B
+> "I was struggling with my assignment, and <strong>Your Expert!</strong> provided excellent guidance that helped me understand the concepts better. I couldn't have completed it without their help. Thank you!" - Student B
 
 ## Skills and Expertise
 
